@@ -4,7 +4,7 @@
 
 <h1>ANISH A</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=203A43&center=true&vCenter=true&width=650&lines=Software+Developer;Cybersecurity+Analyst;AI+Systems+%26+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=4FD1C5&center=true&vCenter=true&width=750&lines=Software+Developer;Cybersecurity+Analyst;AI+Systems+%26+Automation" />
 
 Coimbatore, Tamil Nadu, India
 
@@ -68,8 +68,12 @@ HSC — 72% (2024) · SSLC — 62% (2022)
 ## GitHub Overview
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AAnish2006&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0F2027&icon_color=203A43&text_color=333333"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAnish2006&layout=compact&theme=default&hide_border=true&title_color=0F2027&text_color=333333"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AAnish2006&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAnish2006&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
+</p>
+
+<p align="center">
+<sub>If these don't render on first load, refresh the page — the Vercel stats service occasionally needs a moment on a cold start.</sub>
 </p>
 
 ---
@@ -77,7 +81,7 @@ HSC — 72% (2024) · SSLC — 62% (2022)
 ## Competitive Programming
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/anish_17?theme=light&font=JetBrains+Mono&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/anish_17?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
 </p>
 
 <div align="center">
