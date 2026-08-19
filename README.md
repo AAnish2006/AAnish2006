@@ -1,8 +1,10 @@
 <div align="center">
 
-# ANISH A
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=150&section=header"/>
 
-**Software Developer · Cybersecurity Analyst · AI Systems**
+<h1>ANISH A</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=203A43&center=true&vCenter=true&width=650&lines=Software+Developer;Cybersecurity+Analyst;AI+Systems+%26+Automation" />
 
 Coimbatore, Tamil Nadu, India
 
@@ -63,6 +65,15 @@ HSC — 72% (2024) · SSLC — 62% (2022)
 
 ---
 
+## GitHub Overview
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AAnish2006&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0F2027&icon_color=203A43&text_color=333333"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAnish2006&layout=compact&theme=default&hide_border=true&title_color=0F2027&text_color=333333"/>
+</p>
+
+---
+
 ## Competitive Programming
 
 **LeetCode Dashboard:** [leetcode.com/u/anish_17](https://leetcode.com/u/anish_17/)
@@ -78,4 +89,6 @@ Data Structures & Algorithms · Machine Learning · Backend Development · Bug B
 
 <div align="center">
 <sub>Open to backend engineering, AI integration, and cybersecurity opportunities.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=100&section=footer"/>
 </div>
